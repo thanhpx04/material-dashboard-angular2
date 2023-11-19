@@ -1,4 +1,4 @@
-# [Material Dashboard Angular - Free Bootstrap Material Design Admin]
+Material Dashboard Angular - Free Bootstrap Material Design Admin
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-angular/material-dashboard-angular.gif)
 
